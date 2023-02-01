@@ -1,8 +1,7 @@
 [![MasterHead](https://getflywheel.com/layout/wp-content/uploads/2019/02/The_Best_Java_Script_Libraries_1800x500-1-1568x436.jpg)](https://rishavchanda.io)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Itim&size=30&pause=1000&color=00659A&width=435&lines=React+and+React+native+developer;Passionate+Javascript+developer+;Build+your+dream+app)](https://git.io/typing-svg)
 <h1 align="center">Hi 👋, I'm zubair Arif</h1>
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Itim&size=30&pause=1000&color=00659A&width=435&lines=React+and+React+native+developer+🌱;Passionate+Javascript+developer+;Build+your+dream+app" alt="Typing SVG" align="center" /></a>
+<h1 align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Itim&size=30&pause=1000&color=00659A&width=435&lines=React+and+React+native+developer+🌱;Passionate+Javascript+developer+;Build+your+dream+app" alt="Typing SVG" align="center" /></a></h1>
 <h3 align="center"> From Karachi Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/683e2187241c641430216c864ce93fc5a0e0dfb232c5a01d1c54b54d63aa8cb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966">
 
