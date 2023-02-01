@@ -27,4 +27,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zubairarif234&show_icons=true&locale=en" alt="zubairarif234" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zubairarif234&" alt="zubairarif234" /></p>
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark)
+[![Quote](https://github-readme-quotes.herokuapp.com/wow?theme=dark)]
