@@ -1,4 +1,5 @@
 [![MasterHead](https://getflywheel.com/layout/wp-content/uploads/2019/02/The_Best_Java_Script_Libraries_1800x500-1-1568x436.jpg)](https://rishavchanda.io)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Itim&size=30&pause=1000&color=00659A&width=435&lines=React+and+React+native+developer;Passionate+Javascript+developer+;Build+your+dream+app)](https://git.io/typing-svg)
 <h1 align="center">Hi 👋, I'm zubair Arif</h1>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Itim&size=30&pause=1000&color=00659A&width=435&lines=React+and+React+native+developer+🌱;Passionate+Javascript+developer+;Build+your+dream+app" alt="Typing SVG" align="center" /></a>
