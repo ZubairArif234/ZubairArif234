@@ -1,30 +1,97 @@
 [![MasterHead](https://getflywheel.com/layout/wp-content/uploads/2019/02/The_Best_Java_Script_Libraries_1800x500-1-1568x436.jpg)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm zubair Arif</h1>
-<h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Itim&size=30&pause=1000&color=00659A&width=435&lines=React+and+React+native+developer+🌱;Passionate+Javascript+developer" alt="Typing SVG" align="center" /></a></h1>
-<h3 align="center"> From Karachi Pakistan</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/683e2187241c641430216c864ce93fc5a0e0dfb232c5a01d1c54b54d63aa8cb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zubairarif234&label=Profile%20views&color=0e75b6&style=flat" alt="zubairarif234" /> </p>
+<h1 align="center">Aloha! 👋</h1>
+<h3 align="center">
+Software Engineer | MERN Stack Developer | React and React Native Developer
+<!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Itim&size=30&pause=1000&color=00659A&width=435&lines=Software+Engineer;MERN Stack Developer;React and React Native Developer" alt="Typing SVG" align="center" /></a> -->
+</h3>
 
-- 🌱 I’m currently learning **React Native**
+<p align="center">As an expert in my field, I am dedicated to build 🛠️ innovative soltuions 💻 that are not ordinary and exceeds expectations</p>
 
-- 📫 How to reach me **zubarif234@gmail.com**
+<p align="center">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/zubair arif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="zubair arif" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/zubair khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zubair khan" height="30" width="40" /></a>
-<a href="https://fb.com/muhammad zubair" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhammad zubair" height="30" width="40" /></a>
-<a href="https://instagram.com/zubairarif234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zubairarif234" height="30" width="40" /></a>
+ <img src="https://komarev.com/ghpvc/?username=ZubairArif234&label=Profile%20views&color=0e75b6&style=flat" alt="ZubairArif234" /> 
+ <br/>
+
+  <img alt="Profile followers" src="https://img.shields.io/github/followers/ZubairArif234">
+
 </p>
 
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<br><br>
+
+- 🌱 I’m currently learning Python
+
+- 👨‍💻 For detailed information, visit my <a href="https://zubair-arif.netlify.app">Portfolio</a>
+
+- 💬 Ask me about **React, ReactNative, NextJS, NodeJS, ExpressJS**
+
+- 📫 How to reach me <a mailto="zubarif234@gmail.com" target="blank">Mail</a>, <a href="https://www.linkedin.com/in/zubair-arif-b733bb242/" target="blank">LinkedIn</a>
+
+- ⚡ Fun fact **Code whisperer**
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zubairarif234&show_icons=true&locale=en&layout=compact" alt="zubairarif234" /></p>
+- Frontend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,sass,ts,js,react,vite,nextjs,electron,redux,tailwind,materialui,bootstrap" />
+  </a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zubairarif234&show_icons=true&locale=en" alt="zubairarif234" /></p>
+- Backend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,py,postman" /> 
+  </a>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zubairarif234&" alt="zubairarif234" /></p>
+- Database
+<p align="left">
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,firebase" />
+</a>
+</p>
 
+- Tools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,yarn,npm,vscode,netlify,vercel,stackoverflow,discord,linkedin" />
+  </a>
+</p>
+
+<br/>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<!--<div  align="center">-->
+<!--<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=umermemon4648&show_icons=true&locale=en&theme=one_dark_pro" alt="umermemon4648" /></p>-->
+<!--<div/>-->
+
+<div align="center">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ZubairArif234&theme=one_dark_pro&hide_border=true" alt="ZubairArif234" /></p>
+<div/>
+
+<!--<div align="center">-->
+<!--<img src="https://github-readme-stats.vercel.app/api/top-langs?username=umermemon4648&show_icons=true&locale=en&layout=compact&theme=one_dark_pro" alt="umermemon4648" />-->
+<!--<div/>-->
+
+<br><br>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<!--<h3 align="left">Activity:</h3>-->
+
+![Supuna97's Graph](https://github-readme-activity-graph.vercel.app/graph?username=ZubairArif234&custom_title=Zubair's%20GitHub%20Activity&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+
+<!--<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">-->
+
+</p>
+
+<!--<br>-->
+<!--<p align="right" > Created with 🧡 by <a href="https://umer-portfoliohub.netlify.app">Umer</a></p>-->
+<!--<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">-->
