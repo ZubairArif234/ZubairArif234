@@ -1,5 +1,5 @@
 [![MasterHead](https://getflywheel.com/layout/wp-content/uploads/2019/02/The_Best_Java_Script_Libraries_1800x500-1-1568x436.jpg)](https://rishavchanda.io)
-![Header]([./your-header-image-name.png](https://res.cloudinary.com/drqtz5s5m/image/upload/v1745389321/github-header-image_ae4shf.png))
+<!-- ![MasterHead](https://res.cloudinary.com/drqtz5s5m/image/upload/v1745389321/github-header-image_ae4shf.png) -->
 
 <h1 align="center">Aloha! 👋</h1>
 <h3 align="center">
